@@ -25,7 +25,7 @@ function calculate() {
 `
     <div class="card mb-4">
 <div class="card-header">
-  <h3> Result</h3>
+Result
 </div>
 <div  class="card-body">
    <h3> BUY Trade:</h3>
@@ -44,16 +44,3 @@ function calculate() {
   }
 
 
-  calculate()
-
-{/* <blockquote class="blockquote mb-1">
- <h3>BUY Trade:</h3>
-  <p>TP (${tpPercent}%): <strong>$${tpBuy.toFixed(2)}</strong></p>
-  <p>SL (${slPercent}%): <strong>$${slBuy.toFixed(2)}</strong></p>
-</blockquote>
-<blockquote class="blockquote mb-0">
-
-     <h3>SELL Trade:</h3>
-    <p>TP (${tpPercent}%): <strong>$${tpSell.toFixed(2)}</strong></p>
-    <p>SL (${slPercent}%): <strong>$${slSell.toFixed(2)}</strong></p>
-</blockquote> */}

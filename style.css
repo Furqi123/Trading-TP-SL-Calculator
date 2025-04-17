@@ -20,18 +20,18 @@
     font-size: 25px;
 }
 
-.btn-primary{
+.btn-dark{
     background-color: #000;
     border: 2px solid #000 ;
 }
 
-.btn-primary:focus{
+.btn-dark:focus{
     background-color: #000 !important;
     border: 2px solid #000
 
 }
 
-.btn-primary:hover{
+.btn-dark:hover{
     background-color: #000;
     border: 2px solid #000
 }
